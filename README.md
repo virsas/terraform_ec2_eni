@@ -6,8 +6,8 @@ This module is not normally needed, but in case you need fixed MAC address might
 
 ## Dependencies
 
-VPC SUBNET <https://github.com/virsas/terraform_vpc_subnet>
-VPC SG <https://github.com/virsas/terraform_vpc_sg>
+- VPC SUBNET <https://github.com/virsas/terraform_vpc_subnet>
+- VPC SG <https://github.com/virsas/terraform_vpc_sg>
 
 ## Terraform example
 
